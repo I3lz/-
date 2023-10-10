@@ -1,0 +1,3 @@
+﻿  03.c
+03.obj : error LNK2005: main 已经在 03(2).obj 中定义
+C:\Users\I3lz\source\repos\003.c\x64\Debug\003.c.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
